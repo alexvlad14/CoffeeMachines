@@ -16,6 +16,6 @@ Welcome to Coffee Shop App, the ultimate coffee experience at your fingertips! O
 
 ![Screenshot_1](3.png)
 
-3. <b>Seamless Ordering Process:</b> With just a few taps, you can place an order for your chosen coffee machine. Customize your purchase with optional accessories, warranty plans, and more. Experience a smooth and secure checkout process.
+3. <b>Seamless Ordering Process:</b> With just a few taps, you can place an order for your chosen coffee machine. Experience a smooth and secure checkout process.
 
 ![Screenshot_1](4.png)
