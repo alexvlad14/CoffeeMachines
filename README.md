@@ -1,30 +1,21 @@
 # Coffee Shop App
 
 # App description
-Welcome to Coffee Shop App, the ultimate coffee experience at your fingertips! Our innovative coffee machine ordering app, powered by Power Apps, Dataverse, and Power Automate, is designed to elevate your coffee brewing journey to new heights.
+Welcome to Coffee Shop App, the ultimate coffee experience at your fingertips! Our innovative coffee machine ordering app, powered by Microsoft Power Apps, Dataverse, and Power Automate, is designed to elevate your coffee brewing journey to new heights.
 
-![Screenshot_1](image/Screenshot_1.png)
-![Screenshot_1](image/Screenshot_2.png)
+![Screenshot_1](0.png)
 
-# Classic Sudoku
-Classic Sudoku is the most popular version of Sudoku. More specifically, Sudoku is a logic-based puzzle. The objective is to fill in all the boxes on the board (9x9) so that each column, each row and each 3x3 box contains all the digits from 1 to 9. However, some boxes are already filled in so that there is only one possible solution.
+# Features
 
-![Screenshot_1](image/Screenshot_3.png)
-![Screenshot_1](image/Screenshot_4.png)
+1. <b>Intuitive Interface:</b> Coffe Shop App boasts a user-friendly interface that makes ordering your favorite coffee machine a breeze. Navigate effortlessly through a visually appealing and responsive design.
 
-# Killer Sudoku
-Killer Sudoku is a variant of the puzzle that combines elements from Sudoku and Kakuro. Despite its name, Killer Sudoku is easier to solve than the classic Sudoku because it includes mental arithmetic in its boxes. Of course, this also depends on the solver's ability in arithmetic operations.
+![Screenshot_1](1.png)
+![Screenshot_1](2.png)
 
-![Screenshot_1](image/Screenshot_5.png)
+2. <b>Personalized Recommendations:</b> Discover the perfect coffee machine tailored to your preferences. Our app analyzes your taste preferences, brewing style, and desired features to suggest the ideal coffee companion for you.
 
-# Duidoku
-Duidoku is a competitive variant of Sudoku and allows the user to compete against the AI character. More specifically, it consists of 4x4 boxes and the winner is the player who parries the last move. In addition, this game also features help to make it easier for the user in case he or she has difficulty beating the AI character.
+![Screenshot_1](3.png)
 
-![Screenshot_1](image/Screenshot_6.png)
-![Screenshot_1](image/Screenshot_7.png)
-![Screenshot_1](image/Screenshot_11.png)
-<!---![Screenshot_1](image/Screenshot_8.png)
-![Screenshot_1](image/Screenshot_9.png)
-![Screenshot_1](image/Screenshot_10.png)
+3. <b>Seamless Ordering Process:</b> With just a few taps, you can place an order for your chosen coffee machine. Customize your purchase with optional accessories, warranty plans, and more. Experience a smooth and secure checkout process.
 
-![Screenshot_1](image/Screenshot_12.png)-->
+![Screenshot_1](4.png)
