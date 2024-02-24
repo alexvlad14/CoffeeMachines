@@ -1,7 +1,7 @@
 # Coffee Shop App
 
 # App description
-Welcome to Coffee Shop App, the ultimate coffee experience at your fingertips! Our innovative coffee machine ordering app, powered by Microsoft Power Apps, Dataverse, and Power Automate, is designed to elevate your coffee brewing journey to new heights.
+Welcome to Coffee Shop App, the ultimate coffee experience at your fingertips! Our innovative coffee machine ordering canvas app, powered by Microsoft Power Apps, Dataverse, and Power Automate, is designed to elevate your coffee brewing journey to new heights.
 
 ![Screenshot_1](0.png)
 
